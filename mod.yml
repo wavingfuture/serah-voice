@@ -1,0 +1,67 @@
+title: Serah Farron Battle Voice
+originalAuthor: wavingfuture
+description: Replaces Sora's battle voice with Serah from FFXIII-2
+dependencies: 
+assets:
+- name: voice/us/battle/al0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/al0_sora.win32.scd
+- name: voice/us/battle/bb0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/bb0_sora.win32.scd
+- name: voice/us/battle/ca0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/ca0_sora.win32.scd
+- name: voice/us/battle/dc0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/dc0_sora.win32.scd
+- name: voice/us/battle/eh0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/eh0_sora.win32.scd
+- name: voice/us/battle/hb0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/hb0_sora.win32.scd
+- name: voice/us/battle/he0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/he0_sora.win32.scd
+- name: voice/us/battle/lk0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/lk0_sora.win32.scd
+- name: voice/us/battle/lm0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/lm0_sora.win32.scd
+- name: voice/us/battle/mu0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/mu0_sora.win32.scd
+- name: voice/us/battle/nm0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/nm0_sora.win32.scd
+- name: voice/us/battle/tr0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/tr0_sora.win32.scd
+- name: voice/us/battle/tt0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/tt0_sora.win32.scd
+- name: voice/us/battle/wi0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/wi0_sora.win32.scd
+- name: voice/us/battle/po0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/po0_sora.win32.scd
+
+
