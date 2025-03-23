@@ -1,6 +1,7 @@
 title: Serah Farron Battle Voice
 originalAuthor: wavingfuture
 description: Replaces Sora's battle voice with Serah from FFXIII-2
+game: kh2
 dependencies: 
 assets:
 - name: voice/us/battle/al0_sora.win32.scd
